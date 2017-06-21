@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="left_to_parent">24dp</dimen>
+    <dimen name="login_right_to_wight">20dp</dimen>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="wrap_content"
+    android:layout_gravity="center"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/loadingIv"
+        android:layout_width="240px"
+        android:layout_height="240px"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/runing_man"
+        />
+
+    <TextView
+        android:id="@+id/loadingTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/loadingIv"
+        android:layout_centerHorizontal="true"
+        android:textColor="#d4a6d9"
+        android:textSize="20sp"
+        android:text="正在加载中..." />
+</LinearLayout>

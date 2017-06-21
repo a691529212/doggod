@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-3.2/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        revision="25.0.3"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/eventbus-3.0.0-6c3ebb5e89b2aba929839be74509ad63851fda1b.jar" />
+    </item>
+    <item
+        jar="/Users/vampire/.android/build-cache/859090fa1fd2b507c7eb31b4288ed8d6380db5a1/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-af1a9bf7a2a8c0fb1044d2034d5a4d83044c0c70.jar" />
+    </item>
+    <item
+        jar="/Users/vampire/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/constraint-layout-solver-1.0.2-d5af83c851860570545dec7d8ef81a575f8aaa75.jar" />
+    </item>
+    <item
+        jar="/Users/vampire/.android/build-cache/eb309cb765c91970c678606aaff19804e262a9ff/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-74f0da250830cc01ffcac052915c15ab55af0fb3.jar" />
+    </item>
+    <item
+        jar="/Users/vampire/.android/build-cache/a65eb9eaffa0fd46ee83bca0f80229d42f2e7181/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-6c49cbb93661a0a1f6177f69fe9f315a609e9421.jar" />
+    </item>
+    <item
+        jar="/Users/vampire/.android/build-cache/b95065aa9e8049ea92d0ec61594a8612845cef60/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-3d6c6f225c2ea2550b7a21004a1bed4e36925d09.jar" />
+    </item>
+    <item
+        jar="/Users/vampire/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-26.0.0-alpha1-7df4c91ce7438f319cafb905a0fdfd074c6f3b4a.jar" />
+    </item>
+    <item
+        jar="/Users/vampire/.android/build-cache/8ed36dd693da1d2a1ff2f7335f1f58a42a9837ff/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-ebd66cdab3cc565777e462c0527b8380cf9791d5.jar" />
+    </item>
+    <item
+        jar="/Users/vampire/.android/build-cache/7660760aa633a22a2b66d46bf87707aa35cbf9fc/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="39bd9f893c75eac9e76559cc4e96af6e417afdc5">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-0c0089bbcb07d10956cf62ce9a64b964f3f528ca.jar" />
+    </item>
+    <item
+        jar="/Users/vampire/.android/build-cache/e371e035bb283927a8d953b7ada4cb3f131e81bc/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-2c210e826b2ec74371f4b707c9a33accb1792bf6.jar" />
+    </item>
+    <item
+        jar="/Users/vampire/.android/build-cache/11b5e329d1da80ab203a6aa17c0c72e310c9f0f5/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-41eda676df1f448fa5e1e5662d9928e6cf73553e.jar" />
+    </item>
+    <item
+        jar="/Users/vampire/.android/build-cache/177c132be33eeaa49df8e620cdf328647bbf82f8/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-d76619da42135b644f1ef684a67a5c2b43aa0caf.jar" />
+    </item>
+    <item
+        jar="/Users/vampire/.android/build-cache/61c541c7938585c68a86b9b18a8a859dc36812fb/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="4ee95617ab850030c51486d02bc9d207b14419c6">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-1f0c39f12e97b4074c0812df8aa90b2a327a6962.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-3.2/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        revision="25.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okio-1.9.0-82a1bbeadd0f13e2b8b447cd1157a328719cd64d.jar" />
+    </item>
+    <item
+        jar="/Users/vampire/.android/build-cache/3e9bd4128f3bb83e232286e4b5e74baf75d1ec80/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="57528b5deee77bfa2188fc279fd45066366f17f5">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-5f2bfb72a48b880dcf40d5767c87a810ffd4da4b.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-3.2/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        revision="25.0.3"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/bolts-android-1.1.4-9129da732d55a529ef892fd1a5842986c3358f28.jar" />
+    </item>
+    <item
+        jar="/Users/vampire/AndroidProject/GodOfDog/app/libs/lite-orm-1.9.2.jar"
+        revision="25.0.3"
+        sha1="7691b96fd27f2991cb4779c22f9089bf268945c8">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/lite-orm-1.9.2-a0adeffa12cef04ac3a74b18c7a2c58694ae699c.jar" />
+    </item>
+    <item
+        jar="/Users/vampire/.android/build-cache/d29c6ad1cbd83fc89ba8c8f2e8e7887b0162217c/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e0b79e6dd9cc98d61c2455e2feff12d38f1d48dd.jar" />
+    </item>
+    <item
+        jar="/Users/vampire/.android/build-cache/7c0c2814642a050d0de7b324032af329f733ac0a/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-c674559a3110493d92b8fdf47a296e49e9667b7b.jar" />
+    </item>
+    <item
+        jar="/Users/vampire/.android/build-cache/d0246c5833aae7261061d92ef2bf309b9ed10881/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-543eb9e925c1db3b46db8fa42e3caacb6dd87b9b.jar" />
+    </item>
+    <item
+        jar="/Users/vampire/.android/build-cache/6166125feb02a3dd4ffda37a5a3f7387889666c0/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-49b2f58347e8a8d8534eb0eb655e31b48e452cd7.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-3.2/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/glide-3.7.0-1c1ab33a5cff4e629b91013d91653b8c1092ec00.jar" />
+    </item>
+    <item
+        jar="/Users/vampire/.android/build-cache/e0e925c8dcf519662d5f62cf8cbb0836cdbb78a4/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="ca51025f4a58fc7fb6cfaa85e7d09b7ae47e6187">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-bfd149aa909a26c81586be532faff1f1c2145d7b.jar" />
+    </item>
+    <item
+        jar="/Users/vampire/.android/build-cache/2bfa5afe1bbfb1552e340f458e23c1870658acba/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-74fe7327eae704429aa1f5fd8c09b168e7806f94.jar" />
+    </item>
+    <item
+        jar="/Users/vampire/.android/build-cache/f56592caf714a7653866647d6f09d3c855c765ad/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="3158c15bb0ae97575debdb40cfcd8f0f9f244526">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-3f384492703f4fe613e6d985c52fb9724c3c4a65.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-3.2/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.2/ccde00f7ccc77af5a6d5752e2cb21f6d8998289f/okhttp-3.4.2.jar"
+        revision="25.0.3"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okhttp-3.4.2-3786c43ef169be0622a177ede2ea1be331dcba16.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-3.2/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        revision="25.0.3"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/vampire/AndroidProject/GodOfDog/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/gson-2.8.0-1bcda913b0e4d9c7c3e65c56ebbc67b45d8d9f1b.jar" />
+    </item>
+
+</items>
